@@ -1,0 +1,219 @@
+[
+  
+    {
+      "title"    : "Versions/Bumping/Changelog script tips for your CI/CD pipelines",
+      "category" : "",
+      "tags"     : "platform and pipelines",
+      "url"      : "/version-bumping-changelog-script-tips-for-your-ci-cd-pipelines",
+      "date"     : "Aug 19, 2020"
+    } ,
+  
+    {
+      "title"    : "Set up a headless web testing project with Docker, Chrome and Firefox",
+      "category" : "",
+      "tags"     : "platform and testing",
+      "url"      : "/set-up-a-headless-web-testing-project-with-docker-chrome-and-firefox",
+      "date"     : "May 12, 2018"
+    } ,
+  
+    {
+      "title"    : "Multistage builds for NodeJS",
+      "category" : "",
+      "tags"     : "platform and pipelines",
+      "url"      : "/multistage-builds-for-nodejs",
+      "date"     : "Nov 19, 2017"
+    } ,
+  
+    {
+      "title"    : "Quick start with Hashicorp Terraform, infrastructure as code",
+      "category" : "",
+      "tags"     : "platform and infrastructure",
+      "url"      : "/infrastructure-as-code-replace-custom-terminal-scripts-and-uis",
+      "date"     : "Sep 17, 2017"
+    } ,
+  
+    {
+      "title"    : "Edison 2017, Demoscene by KpRñA",
+      "category" : "",
+      "tags"     : "events and life",
+      "url"      : "/edison-2017-demoscene-kprna",
+      "date"     : "Jul 2, 2017"
+    } ,
+  
+    {
+      "title"    : "Deploying Microservices Transparently in Clusters with Docker and Nomad",
+      "category" : "",
+      "tags"     : "platform and infrastructure",
+      "url"      : "/deploying-microservices-transparently-in-clusters-with-docker-and-nomad",
+      "date"     : "Apr 29, 2017"
+    } ,
+  
+    {
+      "title"    : "Hostify",
+      "category" : "",
+      "tags"     : "projects",
+      "url"      : "/hostify",
+      "date"     : "Feb 19, 2017"
+    } ,
+  
+    {
+      "title"    : "Use Git, Gulp and Azure for Continuous Deployment a Website",
+      "category" : "",
+      "tags"     : "platform, automation, and development",
+      "url"      : "/use-git-gulp-azure-continuous-deployment-website",
+      "date"     : "Dec 17, 2016"
+    } ,
+  
+    {
+      "title"    : "Postman Runner | Visual Studio Code Extension",
+      "category" : "",
+      "tags"     : "projects",
+      "url"      : "/postman-runner-visual-studio-code-extension",
+      "date"     : "Nov 6, 2016"
+    } ,
+  
+    {
+      "title"    : "NuGet NuPkg Viewer | Visual Studio Code Extension",
+      "category" : "",
+      "tags"     : "projects",
+      "url"      : "/nuget-nupkg-viewer-visual-studio-code-extension",
+      "date"     : "Nov 6, 2016"
+    } ,
+  
+    {
+      "title"    : "Creating a CLI tool in Node.js",
+      "category" : "",
+      "tags"     : "platform, automation, and development",
+      "url"      : "/creating-a-cli-tool-in-node-js",
+      "date"     : "Oct 22, 2016"
+    } ,
+  
+    {
+      "title"    : "Rulet, create configurations based on rules and tags",
+      "category" : "",
+      "tags"     : "projects",
+      "url"      : "/rulet-create-configurations-based-rules-tags",
+      "date"     : "Jul 31, 2016"
+    } ,
+  
+    {
+      "title"    : "Edison 2016, Demoscene by KpRñA",
+      "category" : "",
+      "tags"     : "events and life",
+      "url"      : "/edison-2016-demoscene-kprna",
+      "date"     : "Jul 3, 2016"
+    } ,
+  
+    {
+      "title"    : "Sonic Pi, Gravity Falls opening song",
+      "category" : "",
+      "tags"     : "events and speech",
+      "url"      : "/sonic-pi-gravity-falls-opening-song",
+      "date"     : "Jun 12, 2016"
+    } ,
+  
+    {
+      "title"    : "Gulp.js, the power of automating tasks",
+      "category" : "",
+      "tags"     : "platform and automation",
+      "url"      : "/gulpjs-the-power-of-automating-tasks",
+      "date"     : "Apr 4, 2016"
+    } ,
+  
+    {
+      "title"    : "HockeyApp API Wrapper module for NPM",
+      "category" : "",
+      "tags"     : "projects",
+      "url"      : "/hockeyapp-api-wrapper-module-for-npm",
+      "date"     : "Feb 28, 2016"
+    } ,
+  
+    {
+      "title"    : "Introduction to JavaScript for Pebble Time Smart-Watch",
+      "category" : "",
+      "tags"     : "smartwatch",
+      "url"      : "/introduction-to-javascript-for-pebble-time-smart-watch",
+      "date"     : "Nov 16, 2015"
+    } ,
+  
+    {
+      "title"    : "WebAudio tutorial, explained with images",
+      "category" : "",
+      "tags"     : "web",
+      "url"      : "/webaudio-tutorial-explained-with-images",
+      "date"     : "Aug 12, 2015"
+    } ,
+  
+    {
+      "title"    : "Second System Syndrome",
+      "category" : "",
+      "tags"     : "development and speech",
+      "url"      : "/second-system-syndrome",
+      "date"     : "Jul 21, 2015"
+    } ,
+  
+    {
+      "title"    : "Generating GIFs with C#",
+      "category" : "",
+      "tags"     : "development",
+      "url"      : "/generating-gifs-with-csharp",
+      "date"     : "Jul 4, 2015"
+    } ,
+  
+    {
+      "title"    : "Edison 2015, A Demoscene Odyssey",
+      "category" : "",
+      "tags"     : "events and life",
+      "url"      : "/edison-2015-a-demoscene-odyssey",
+      "date"     : "Jun 25, 2015"
+    } ,
+  
+    {
+      "title"    : "Regular Expression in the Real World",
+      "category" : "",
+      "tags"     : "development",
+      "url"      : "/regular-expression-in-the-real-world",
+      "date"     : "May 17, 2015"
+    } ,
+  
+    {
+      "title"    : "TDD with NCrunch and JustMock",
+      "category" : "",
+      "tags"     : "development and testing",
+      "url"      : "/tdd-with-ncrunch-and-justmock",
+      "date"     : "Apr 26, 2015"
+    } ,
+  
+    {
+      "title"    : "Test Driven Development and CI using JavaScript [Part II]",
+      "category" : "",
+      "tags"     : "development and testing",
+      "url"      : "/test-driven-development-and-ci-using-javascript-part-ii",
+      "date"     : "Jun 18, 2014"
+    } ,
+  
+    {
+      "title"    : "Test Driven Development and CI using JavaScript [Part I]",
+      "category" : "",
+      "tags"     : "development and testing",
+      "url"      : "/test-driven-development-and-ci-using-javascript-part-i",
+      "date"     : "Jun 18, 2014"
+    } ,
+  
+    {
+      "title"    : "Exception Handling in an AngularJS Web Application",
+      "category" : "",
+      "tags"     : "development",
+      "url"      : "/exception-handling-in-an-angularjs-web-application-tutorial",
+      "date"     : "Jan 10, 2013"
+    } ,
+  
+    {
+      "title"    : "ERiDeM Monsters",
+      "category" : "",
+      "tags"     : "development",
+      "url"      : "/eridem-monsters",
+      "date"     : "Apr 25, 2011"
+    } 
+  
+]
